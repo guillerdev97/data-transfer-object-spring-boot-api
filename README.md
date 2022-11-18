@@ -1,4 +1,4 @@
-# hackerrank-exercises
+# Hackerrank Exercises
 
 This is a repository with various solved hackerrank exercises.  
 The purpose of this repository is to establish the bases and foundations of programming.  
